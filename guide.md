@@ -12,10 +12,13 @@
 
 **iPhone / iPad** にインストールするには、下のリンクまたは QR コードから App Store を開いてください。
 
-| | |
-|---|---|
-| **ストアで開く** | [毎日 計算れんしゅう（App Store）](https://apps.apple.com/app/毎日-計算れんしゅう/id6775496517) |
-| **QR コード** | ![App Store への QR コード](images/app-store-qr.png) |
+**ストアで開く:** [毎日 計算れんしゅう（App Store）](https://apps.apple.com/app/毎日-計算れんしゅう/id6775496517)
+
+<p align="left">
+  <img src="images/app-store-qr.png" alt="App Store への QR コード" width="160" style="max-width: 160px; width: 160px; height: auto;" />
+</p>
+
+※QR は画面幅に関係なく **最大 160px** で表示されます（読み取りには十分な大きさです）。
 
 **QR の読み取り方（iPhone / iPad）**
 
