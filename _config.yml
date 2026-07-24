@@ -1,0 +1,29 @@
+# GitHub Pages（Jekyll）— 検索・SNS向けメタデータ
+# 正本の Legal/ 同期スクリプトは本ファイルを上書きしない（公開リポ専用）
+
+title: 毎日 計算れんしゅう
+description: >-
+  小学校1・2年生向けの無料計算練習アプリ「毎日 計算れんしゅう」の使い方ガイドとサポート。
+  たしざん・ひきざん・九九・時計・長さ・かさの練習、音声入力、ヒント、成長の記録。
+url: "https://funakitakuya.github.io"
+baseurl: "/Math-Practice-Legal"
+lang: ja
+locale: ja_JP
+
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# トップ以外でも検索エンジン向けに日本語ロケールを出す
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/guide-hero.png
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

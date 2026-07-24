@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://funakitakuya.github.io/Math-Practice-Legal/sitemap.xml

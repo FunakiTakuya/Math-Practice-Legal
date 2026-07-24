@@ -1,6 +1,15 @@
-# 毎日 計算れんしゅう — 保護者向けガイド
+---
+title: 毎日 計算れんしゅう｜小学生の計算練習アプリ使い方（保護者ガイド）
+description: >-
+  小学校1・2年生向けの無料算数アプリ。たしざん・ひきざん・時計・長さ・かさの練習、
+  音声入力、ヒント、成長の記録まで。保護者向けの使い方ガイドと App Store へのインストール案内。
+image: /images/guide-hero.png
+---
 
-小学校低学年のお子さま向けの、計算れんしゅうアプリです。
+# 毎日 計算れんしゅう｜小学生の計算練習アプリ（保護者ガイド）
+
+**毎日 計算れんしゅう** は、小学校低学年（おもに1・2年生）向けの iPhone / iPad 用 **算数・計算れんしゅうアプリ**です。  
+たしざん・ひきざん、10をつくる／使う、ながさ・かさ・とけい（たんい）まで、宿題や毎日の復習に使えます。テンキーでも、声に出して答えても練習できます。
 
 | 場所 | 表示名 |
 |------|--------|
@@ -8,10 +17,33 @@
 | ホーム画面 | **算数練習** |
 | アプリ内 | **さんすう れんしゅう** |
 
-このページでは、**おうちの方に「何ができるアプリか」**が伝わるよう、機能の全体像から操作の流れまでをまとめています。
+**まずはインストール:** [App Store で開く（毎日 計算れんしゅう）](https://apps.apple.com/jp/app/id6775496517)  
+（下の [アプリを入れる](#アプリを入れる) に QR コードもあります）
+
+このページでは、おうちの方に **何ができるアプリか** が伝わるよう、機能の全体像から操作の流れまでをまとめています。
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "毎日 計算れんしゅう",
+  "alternateName": ["算数練習", "さんすう れんしゅう"],
+  "operatingSystem": "iOS",
+  "applicationCategory": "EducationApplication",
+  "description": "小学校低学年向けの計算練習アプリ。たしざん・ひきざん・たんい（ながさ・かさ・とけい）、音声入力、ヒント、成長の記録。",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "JPY"
+  },
+  "url": "https://apps.apple.com/jp/app/id6775496517",
+  "downloadUrl": "https://apps.apple.com/jp/app/id6775496517",
+  "inLanguage": "ja"
+}
+</script>
 
 <p align="center">
-  <img src="images/guide-hero.png" alt="アプリのホーム画面（さんすう れんしゅう）" width="720" style="max-width: 100%; height: auto; border-radius: 12px;" />
+  <img src="images/guide-hero.png" alt="毎日 計算れんしゅうのホーム画面。たしざん・ひきざん、かけざん、わりざん、たんい（ながさ・かさ・とけい）のメニュー" width="720" style="max-width: 100%; height: auto; border-radius: 12px;" />
 </p>
 
 ## 目次
@@ -278,14 +310,18 @@
 
 ## アプリを入れる
 
-**ストアで開く:** [毎日 計算れんしゅう（App Store）](https://apps.apple.com/app/毎日-計算れんしゅう/id6775496517)
+無料で始められます（一部の応用練習は Pro）。
+
+**ストアで開く:** [毎日 計算れんしゅう（App Store）](https://apps.apple.com/jp/app/id6775496517)
 
 <p align="left">
-  <img src="images/app-store-qr.png" alt="App Store への QR コード" width="160" style="max-width: 160px; width: 160px; height: auto;" />
+  <img src="images/app-store-qr.png" alt="毎日 計算れんしゅうを App Store で開く QR コード" width="160" style="max-width: 160px; width: 160px; height: auto;" />
 </p>
 
 1. iPhone / iPad のカメラで QR を写す → 表示されたリンクをタップ  
 2. App Store で **入手**（または **再ダウンロード**）をタップ
+
+検索で探すときは App Store で **「毎日 計算れんしゅう」** または **「算数練習」** と入力しても見つかります。
 
 ---
 
